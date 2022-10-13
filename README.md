@@ -1,6 +1,6 @@
 # Ola, I’m Poli 👋
 ### :rose: About me:
-- I'm a brazilian computer engineer trying to start a developer career and :star: looking for a junior python backend job opportunity :star:,
+- I'm a brazilian computer engineer trying to start a developer career (:star: looking for a junior python backend job opportunity :star:),
 - Besides programming i'm also a gaming and investments enthusiast,
 - I'm [Braian](https://github.com/BasaOnly)'s fiancee and business partner,
 - You can reach me on my [LinkedIn](linkedin.com/in/polifrenhan/).

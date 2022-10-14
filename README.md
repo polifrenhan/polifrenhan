@@ -3,7 +3,7 @@
 - I'm a brazilian computer engineer trying to start a developer career (:star: looking for a junior python backend job opportunity :star:),
 - Besides programming i'm also a gaming and investments enthusiast,
 - I'm [Braian](https://github.com/BasaOnly)'s fiancee and business partner,
-- You can reach me on my [LinkedIn](www.linkedin.com/in/polifrenhan/).
+- You can reach me on my LinkedIn -> linkedin.com/in/polifrenhan/.
 ### :snake: I'm currently studying python. Here are some of the things i've learned:
 - Basic syntax, variables and data types, conditionals, type casting, exception, functions, builtin functions, lists, tuples, sets, dictionaries, arrays, linked lists, recursion, regular expressions, decorators, lambdas, classes, inheritance, methods, object oriented programming, iterators Flask and FastAPI.
 ### :computer: Here some other things i've learned:
